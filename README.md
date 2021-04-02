@@ -5,3 +5,5 @@ I'm the founder and developer of https://www.raftmodding.com/ and https://www.gr
 In my programming life (Over the last 10 years) i did many small games, modded many games, created mod loaders like the two ones above.
 More recently i also did many plugins on rust, such as never seen ones ranging from Atlantis Stargate Teleporters to Meteorite Plugins & Deep Code Modification with Harmony IL Patching.
 
+![](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/95bfc0112284803.601199c52c294.gif)
+
