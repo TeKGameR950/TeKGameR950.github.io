@@ -22,6 +22,7 @@ More recently i also did many plugins on rust, such as never seen ones ranging f
 <center>
     <h2> How to contact me ? </h2>
     Discord : TeK#1234
+    
     Mail : blanchardwilly86@gmail.com
 </center>
 
