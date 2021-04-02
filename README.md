@@ -1,2 +1,7 @@
-# TeKGameR950.github.io
-Hey, I'm TeK, I am mainly a C# developer that loves creating games and improving existing ones.
+To present myself i'm TeK, I'm 21 and i'm a well known developer on Rust, Garry's Mod, FiveM and many other games.
+
+I'm the founder and developer of https://www.raftmodding.com/ and https://www.greenhellmodding.com/  :)
+
+In my programming life (Over the last 10 years) i did many small games, modded many games, created mod loaders like the two ones above.
+More recently i also did many plugins on rust, such as never seen ones ranging from Atlantis Stargate Teleporters to Meteorite Plugins & Deep Code Modification with Harmony IL Patching.
+
