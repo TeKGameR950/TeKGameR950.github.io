@@ -1,3 +1,9 @@
+<style>
+body {
+background-color: red;  
+}
+</style>
+
 To present myself i'm TeK, I'm 21 and i'm a well known developer on Rust, Garry's Mod, FiveM and many other games.
 
 I'm the founder and developer of https://www.raftmodding.com/ and https://www.greenhellmodding.com/  :)
