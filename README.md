@@ -20,7 +20,10 @@ Over the last 10 years i did many small games, modded many games, created many m
 More recently i also did many plugins on rust, such as never seen ones ranging from Atlantis Stargate Teleporters to Meteorite Plugins & Deep Code Modification with Harmony IL Patching.
 
 <center>
-    <h2> How to contact me ? <h2></br>Discord : TeK#1234</br>Mail : blanchardwilly86@gmail.com</center>
+    <h2> How to contact me ? </h2>
+    Discord : TeK#1234
+    Mail : blanchardwilly86@gmail.com
+</center>
 
 <center>
     
