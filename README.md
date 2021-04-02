@@ -1,6 +1,7 @@
 <style>
 body {
     background-image: url(https://files.facepunch.com/garry/1b1011b1/test.png?1=);
+    font-family: "Sen",sans-serif;
 }
 </style>
 
