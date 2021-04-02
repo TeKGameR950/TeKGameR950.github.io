@@ -1,6 +1,6 @@
 <style>
 body {
-background-color: red;  
+    background-image: url(https://files.facepunch.com/garry/1b1011b1/test.png?1=);
 }
 </style>
 
