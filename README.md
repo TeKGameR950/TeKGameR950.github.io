@@ -1,7 +1,7 @@
 <style>
 html {
     background-color: transparent !important;
-    background-image: url(https://files.facepunch.com/garry/1b1011b1/test.png?1=) !important;
+    background-image: url(https://cdn.discordapp.com/attachments/663022938622001155/827513350866731018/bg.png) !important;
     font-family: "Sen",sans-serif !important;
 }
 </style>
