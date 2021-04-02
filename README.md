@@ -7,6 +7,7 @@ More recently i also did many plugins on rust, such as never seen ones ranging f
 
 
 Just a quick test of a physgun in Rust.             |  Completely working Stargate's portal in Rust.
+![](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/95bfc0112284803.601199c52c294.gif) | ![](https://cdn.discordapp.com/attachments/773231750733103164/775041178684620830/2020-11-08_17-55-03.mp4)
 :-------------------------:|:-------------------------:
-![](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/95bfc0112284803.601199c52c294.gif) ![](https://cdn.discordapp.com/attachments/773231750733103164/775041178684620830/2020-11-08_17-55-03.mp4)
+
 
