@@ -1,8 +1,9 @@
 <style>
-html {
+body {
     background-color: transparent !important;
     background-image: url(https://cdn.discordapp.com/attachments/663022938622001155/827513350866731018/bg.png) !important;
     font-family: "Sen",sans-serif !important;
+    color: white;
 }
 </style>
 
