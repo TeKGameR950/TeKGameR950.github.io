@@ -5,6 +5,11 @@ body {
     font-family: "Sen",sans-serif !important;
     color: white;
 }
+    
+    a {
+        text-align:center;
+        color: white;
+    }
 </style>
 
 Hi, to present myself i'm TeK, I'm 21 and i'm a well known developer on Rust, Garry's Mod, FiveM and many other games.
