@@ -25,6 +25,16 @@ More recently i also did many plugins on rust, such as never seen ones ranging f
     
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/95bfc0112284803.601199c52c294.gif" width="40%"/> <img src="https://media.discordapp.net/attachments/751250737513758780/804232862501044279/unknown.png" width="40%"/>
 
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1cfdbd112284803.601199c52b4bf.png" width="40%"/> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b1a633112284803.601199c52abf1.png" width="40%"/>
+
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/0e8ef2112284803.601199c52bda2.png" width="40%"/> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/02057b112284803.601199c52b8f4.png" width="40%"/>
+
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ad6bbf112284803.601199c52b025.png" width="40%"/> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f17502112284803.601199c5294d4.png" width="40%"/>
+
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2ef763112284803.60119c2d35101.png" width="40%"/> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/09f4ec112284803.601199c52806f.jpg" width="40%"/>
+
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d97df4112284803.60119c2d3405c.png" width="40%"/> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6be5e7112284803.60119c2d346f2.png" width="40%"/>
+
 </center>
 
 
